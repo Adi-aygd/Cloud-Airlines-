@@ -65,5 +65,7 @@ This is a **college project** built for academic purposes and does not include r
 ## 💌 Connect with our team
 
 [Satyam](https://github.com/nittaany)
+
 [Aaditya](https://github.com/Adi-aygd)
+
 [Ritesh](https://github.com/jamessshhh)
