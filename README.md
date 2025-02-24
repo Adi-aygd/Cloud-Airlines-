@@ -1,12 +1,7 @@
 # ✈️ Cloud Airlines 🌍
 
-A **full-stack flight booking system** built using **HTML, CSS, JavaScript, Node.js, and MySQL**. This project was developed as part of our **DBMS subject** in the 4th semester\*\*.
-
----
-
-## 🚀 Overview
-
-Cloud Airlines is a **flight booking prototype** that showcases database management and dynamic web development. It allows users to browse flights and simulate booking functionalities.
+A **full-stack flight booking system** built using **HTML, CSS, JavaScript, Node.js, and MySQL**. This project was developed as part of our **DBMS subject** in the 4th semester.
+This showcases database management and dynamic web development. It allows users to browse flights and simulate booking functionalities.
 
 ---
 
@@ -65,7 +60,5 @@ This is a **college project** built for academic purposes and does not include r
 ## 💌 Connect with our team
 
 [Satyam](https://github.com/nittaany)
-
 [Aaditya](https://github.com/Adi-aygd)
-
 [Ritesh](https://github.com/jamessshhh)
