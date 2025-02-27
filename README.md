@@ -1,6 +1,6 @@
 # ✈️ Cloud Airlines 🌍
 
-A **full-stack flight booking system** built using **HTML, CSS, JavaScript, Node.js, and MySQL**. This project was developed as part of our **DBMS subject** in the 4th semester.
+A **full-stack flight booking system** built using **HTML, CSS, JavaScript, Node.js, and MySQL**. This project was developed as part of our **DBMS subject** in the 4th semester. 
 This showcases database management and dynamic web development. It allows users to browse flights and simulate booking functionalities.
 
 ---
